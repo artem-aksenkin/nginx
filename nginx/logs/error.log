@@ -1,0 +1,9 @@
+2017/06/02 16:06:53 [error] 19682#0: *2 open() "/home/artem/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.100.1, server: 192.168.100.177, request: "GET /favicon.ico HTTP/1.1", host: "192.168.100.177:8080"
+2017/06/02 16:06:53 [error] 19682#0: *2 open() "/home/artem/nginx/html/404.html" failed (2: No such file or directory), client: 192.168.100.1, server: 192.168.100.177, request: "GET /favicon.ico HTTP/1.1", host: "192.168.100.177:8080"
+2017/06/02 16:06:53 [error] 19682#0: *2 open() "/home/artem/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.100.1, server: 192.168.100.177, request: "GET /favicon.ico HTTP/1.1", host: "192.168.100.177:8080"
+2017/06/02 16:06:53 [error] 19682#0: *2 open() "/home/artem/nginx/html/404.html" failed (2: No such file or directory), client: 192.168.100.1, server: 192.168.100.177, request: "GET /favicon.ico HTTP/1.1", host: "192.168.100.177:8080"
+2017/06/02 16:23:20 [error] 24550#0: *2 open() "/home/artem/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.100.1, server: 192.168.100.177, request: "GET /favicon.ico HTTP/1.1", host: "192.168.100.177"
+2017/06/02 16:23:20 [error] 24550#0: *2 open() "/home/artem/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.100.1, server: 192.168.100.177, request: "GET /favicon.ico HTTP/1.1", host: "192.168.100.177"
+2017/06/02 16:35:00 [emerg] 26517#0: duplicate location "/pictures/" in /home/artem/nginx/conf/vhosts/backend.conf:15
+2017/06/02 16:35:09 [emerg] 26536#0: duplicate location "/pictures/" in /home/artem/nginx/conf/vhosts/backend.conf:15
+2017/06/02 16:43:43 [emerg] 27956#0: invalid value "404=" in /home/artem/nginx/conf/vhosts/backend.conf:28
